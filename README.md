@@ -1,2 +1,2 @@
 # Huddle-Landing-Page
-Huddle landing page with a single introductory section
+Huddle landing page with a single introductory section with a two-column layout.
